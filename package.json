@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "node-fetch": "^3.2.10",
-    "tar": "^6.1.11"
+    "tar": "^7.4.3"
   },
   "bugs": {
     "url": "https://github.com/daveshanley/vacuum/issues"
